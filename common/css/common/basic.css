@@ -1,0 +1,33 @@
+/**
+ * --------------------------------
+ * 폰트 설정
+ * --------------------------------
+ */
+body {
+	font-family: "Malgun Gothic", "맑은 고딕", "Apple Gothic", "dotum", "돋움", "gulim", "굴림", sans-serif;
+}
+
+
+/* menu style setting (ul, li, a)
+  add : yeongyun.nk : 2016.02.01
+   ========================================================================== */
+
+/**
+ * ul margin padding reset.
+ * ul list style reset.
+ */
+ul, 
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+/**
+ * Setting nav/manu/tab
+ */
+li > a {
+  text-decoration: none;
+}
+
